@@ -1,7 +1,6 @@
 # Transformer Architecture — Complete Reference
 
 > **Authors:** Ayush Kumar Singh & Abhishek Pal  
-> **Reference paper:** Vaswani et al., *"Attention Is All You Need"*, NeurIPS 2017
 
 This repo is the one-stop reference for everything Transformer — theory, maths, and runnable Python. No other source needed.
 
@@ -162,3 +161,21 @@ lr = d_model^(-0.5) · min(step^(-0.5), step · warmup_steps^(-1.5))
 - Raffel et al., "T5", JMLR 2020
 
 See `References/bibliography.md` for full list.
+
+
+## 🙏 Acknowledgements
+
+- **Dr. Shikha Singh** — guidance and supervision throughout the LLM course
+- **Vaswani et al. (2017)** — foundational *"Attention Is All You Need"* paper
+- **Andrej Karpathy** — from-scratch Transformer implementation inspiration
+- Open-source community — PyTorch, Hugging Face, NumPy
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Ayush Kumar Singh & Abhishek Pal**  
+Amity University Uttar Pradesh · B.Tech Artificial Intelligence · 2026  
+⭐ *Star this repo if it helped you!*
+
+</div>
