@@ -292,6 +292,9 @@ python encoder_decoder.py
 
 ---
 
+
+<div align="left">
+
 ## 🙏 Acknowledgements
 
 - **Dr. Shikha Singh** — guidance and supervision
@@ -299,6 +302,7 @@ python encoder_decoder.py
 - **Andrej Karpathy** — educational philosophy that inspired the pure-Python implementation
 - Open-source community — PyTorch, Hugging Face, NumPy
 
+</div>
 ---
 
 <div align="center">
