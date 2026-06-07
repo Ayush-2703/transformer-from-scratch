@@ -11,6 +11,7 @@
 [![Stars](https://img.shields.io/github/stars/Ayush-2703/transformer-from-scratch?style=for-the-badge&color=FFD700)](https://github.com/Ayush-2703/transformer-from-scratch/stargazers)
 
 <br/>
+
 ---
 
 ## 🧭 The Story This Repo Tells
@@ -36,8 +37,7 @@ Each module in this repo is a chapter in that story — with the theory explaine
 ---
 
 ## 📂 Repository Structure
-
-```
+---
 transformer-from-scratch/
 │
 ├── 📁 Encoder Transformer/        ← BERT-style · bidirectional · understanding tasks
@@ -55,7 +55,6 @@ transformer-from-scratch/
     ├── Theory & Math              
     ├── PyTorch Implementation     ← FullDecoderLayer (cross-attn) → EncoderDecoder
     └── Code Walkthrough               
-```
 
 ---
 
