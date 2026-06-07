@@ -37,6 +37,7 @@ Each module in this repo is a chapter in that story — with the theory explaine
 ---
 
 ## 📂 Repository Structure
+<div align="left">
 ---
 transformer-from-scratch/
 │
@@ -59,7 +60,7 @@ transformer-from-scratch/
 ---
 
 ## 🏗️ Architecture Deep Dive
-
+<div align="center">
 ### Module 1 — Encoder Transformer
 *For tasks that require understanding: classification, NER, semantic search*
 
