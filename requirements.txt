@@ -1,0 +1,35 @@
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# NLP / tokenization
+transformers>=4.38.0
+tokenizers>=0.15.0
+sentencepiece>=0.1.99
+sentence-transformers>=2.7.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+datasets>=2.18.0        # HuggingFace datasets
+
+# Training utilities
+accelerate>=0.27.0      # HuggingFace accelerate (multi-GPU, mixed precision)
+wandb>=0.16.0           # Experiment tracking (optional)
+
+# Evaluation
+sacrebleu>=2.3.0        # BLEU score for translation
+rouge-score>=0.1.2      # ROUGE for summarization
+evaluate>=0.4.0         # HuggingFace evaluate
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Notebooks (optional)
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
