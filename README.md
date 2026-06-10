@@ -312,7 +312,7 @@ lr = d_model⁻⁰·⁵ · min( step⁻⁰·⁵,  step · warmup_steps⁻¹·⁵
 | **Key models** | BERT, RoBERTa | GPT-2/3/4, LLaMA, **Claude** | T5, BART, mBART |
 | **Best for** | Classification, NER, QA | Generation, chat, code | Translation, summarisation |
 
----
+----
 
 ## ⚙️ Original Paper Hyperparameters
 
